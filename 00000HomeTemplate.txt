@@ -38,7 +38,7 @@
 }
 
 .container .btn:hover {
-  background-color: white;
+  background-color: black;
 }
 .whiteButton {
   position: absolute;
