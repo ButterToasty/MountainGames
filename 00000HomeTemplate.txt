@@ -3,9 +3,7 @@
 <html>
   <head>
       <title></title>
-    <link rel="shortcut icon"
-    type="image/jpg" href="mountainNoFade.png"
-    />
+   <img src = "https://about.canva.com/wp-content/uploads/sites/8/2019/03/red.png">
   </head>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
