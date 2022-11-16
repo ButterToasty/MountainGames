@@ -3,7 +3,7 @@
   <head>
       <title></title>
     <link rel="shortcut icon" type="image/jpg" 
-    href=""/>
+    href="https://about.canva.com/wp-content/uploads/sites/8/2019/03/red.png"/>
   </head>
 <body onload='focus()'>
 <script src="load.js"></script>
